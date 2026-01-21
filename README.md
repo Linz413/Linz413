@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Linz413
-- 👀 I’m interested in roles involving the intersection of psychology and technology
-- 🌱 I’m currently learning UI Design and UX Research
+- 👀 I’m interested in research involving human-wildlife interactions, conservation, and climate change
+- 🌱 I’m currently pursuing a Bachelor's degree in Ecology from UGA
 
 <!---
 Linz413/Linz413 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
